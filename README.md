@@ -1,5 +1,6 @@
-<h1 align="center">Hi 👋, I'm Sayed MD. Sadik Iqbal Akil.</h1>
+<h1 align="center">Hi 👋, It's Sayed MD. Sadik Iqbal Akil.</h1>
 <h3 align="center">A passionate software/web developer from Bangladesh.</h3>
+
 <img align="center" alt ="Coding" width="420" src="https://media4.giphy.com/media/ZVik7pBtu9dNS/giphy.gif?cid=ecf05e47k22gtepkozudyrxsg4eboclz4lkjwj8k8tj2g822&rid=giphy.gif&ct=g">
 
 
