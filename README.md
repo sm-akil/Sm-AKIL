@@ -8,7 +8,7 @@
 
 <p align="left"> <a href="https://twitter.com/akil_sm9" target="blank"><img src="https://img.shields.io/twitter/follow/akil_sm9?logo=twitter&style=for-the-badge" alt="akil_sm9" /></a> </p>
 
-- 🔭 I’m currently working on [Attendance Management](Updating...)
+- 🔭 I’m currently working on [Attendance Management Project](Updating...)
 
 - 🌱 I’m currently learning **Algorithm, Data-structure, Advance-label Coding, Database, Local Hosting, Advance-label Cyber security etc.**
 
