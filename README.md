@@ -18,11 +18,13 @@
 
 - 💬 Ask me about **Android OS, Computer OS, Web-Designing, Photoshop, MS-Word, Basic Programming etc.**
 
-- 📫 E-mail: **akil.ckb@gmail.com**
+- 📫 E-mail : **akil.ckb@gmail.com**
 
-- 📫 Whats'app: **01940759675**
+- 📫 What's app : **01940759675**
 
 - 📄 Know about my experiences [Updating...](Updating...)
+
+- 👯 14th February(b/d)
 
 - ⚡About time management **conservative.**
 
