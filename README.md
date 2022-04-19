@@ -18,7 +18,9 @@
 
 - 💬 Ask me about **Android OS, Computer OS, Web-Designing, Photoshop, MS-Word, Basic Programming etc.**
 
-- 📫 How to reach me **akil.ckb@gmail.com**
+- 📫 E-mail: **akil.ckb@gmail.com**
+
+- 📫 Whats'app: **01940759675**
 
 - 📄 Know about my experiences [Updating...](Updating...)
 
