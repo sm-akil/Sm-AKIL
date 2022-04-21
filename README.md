@@ -1,6 +1,7 @@
-<h1 align="center">ℌ𝔦 👋, Yσυ'ɾ ɱσʂƚ  W͓̽E͓̽L͓̽C͓̽O͓̽M͓̽E͓̽  հҽɾҽ♥</h1>
+<h1 align="center">✶ 🎀  𝔸 𝕤 𝕤 𝕒 𝕝 𝕒 𝕞 𝕦 𝕒 𝕝 𝕒 𝕚 𝕜 𝕦 𝕞  🎀 ✶</h1>
+<h2 align="center">🌷Yσυ'ɾ ɱσʂƚ  W͓̽E͓̽L͓̽C͓̽O͓̽M͓̽E͓̽  հҽɾҽ🌷</h2>
 <h1 align="center">𝓘𝓽'𝓼.. 𝕊𝕒𝕪𝕖𝕕 𝕄𝕕. 𝕊𝕒𝕕𝕚𝕜 𝕀𝕢𝕓𝕒𝕝 𝔸𝕜𝕚𝕝 ✅</h1>
-<h3 align="center">🎗🎗🎗𝒜 𝓅𝒶𝓈𝓈𝒾𝑜𝓃𝒶𝓉𝑒 𝓈𝑜𝒻𝓉𝓌𝒶𝓇𝑒 & 𝓌𝑒𝒷 𝒹𝑒𝓋𝑒𝓁𝑜𝓅𝑒𝓇 𝒻𝓇𝑜𝓂 𝐵𝒶𝓃𝑔𝓁𝒶𝒹𝑒𝓈𝒽🎗🎗🎗</h3>
+<h3 align="center">🎗🎗🎗𝗔 𝗽𝗮𝘀𝘀𝗶𝗼𝗻𝗮𝘁𝗲 𝘀𝗼𝗳𝘁𝘄𝗮𝗿𝗲 & 𝘄𝗲𝗯 𝗱𝗲𝘃𝗲𝗹𝗼𝗽𝗲𝗿 𝗳𝗿𝗼𝗺 𝗕𝗮𝗻𝗴𝗹𝗮𝗱𝗲𝘀𝗵🎗🎗🎗</h3>
 
 <img align="right" alt ="Coding" width="420" src="https://media4.giphy.com/media/ZVik7pBtu9dNS/giphy.gif?cid=ecf05e47k22gtepkozudyrxsg4eboclz4lkjwj8k8tj2g822&rid=giphy.gif&ct=g">
 
