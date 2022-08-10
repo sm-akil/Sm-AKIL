@@ -11,7 +11,7 @@
 
 - 🔭 I’m currently working on [Attendance Management Project](Updating...)
 
-- 🌱 I’m currently learning **Algorithm, Data-structure, Advance-label Coding, Database, Local Hosting, Advance-label Cyber security etc.**
+- 🌱 I’m currently learning **Algorithm, Data-structure, Advance-label Coding, Database, Local Hosting, Advance-label Cyber security System etc.**
 
 - 👯 I’m currently working on **Dynamic Website**
 
