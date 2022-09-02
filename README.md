@@ -9,7 +9,8 @@
 
 <p align="left"> <a href="https://twitter.com/akil_sm9" target="blank"><img src="https://img.shields.io/twitter/follow/akil_sm9?logo=twitter&style=for-the-badge" alt="akil_sm9" /></a> </p>
 
-- 🔭 I’m currently working on [Attendance Management Project](https://github.com/sm-akil/AttendanceManagementSystem)
+- 🔭 My ready project : [Attendance Management Project](https://github.com/sm-akil/AttendanceManagementSystem)
+- 🔭 I’m currently working on- [Pharmacy Management Project]([https://github.com/sm-akil/AttendanceManagementSystem](https://github.com/sm-akil/PharmacyManagementSystem))
 
 - 🌱 I’m currently learning **Algorithm, Data-structure, Advance-label Coding, Database, Local Hosting, Advance-label Cyber security System etc.**
 
