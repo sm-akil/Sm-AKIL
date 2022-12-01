@@ -33,6 +33,10 @@
 
 - ⚡About time management **conservative.**
 
+<h2 align="center">🎀ℂ𝕦𝕣𝕣𝕚𝕔𝕦𝕝𝕦𝕞 𝕍𝕚𝕥𝕒𝕖🎀</h2>
+<img align="center" alt ="Coding" width="420" height="700" src="https://media4.giphy.com/media/ZVik7pBtu9dNS/giphy.gif?cid=ecf05e47k22gtepkozudyrxsg4eboclz4lkjwj8k8tj2g822&rid=giphy.gif&ct=g">
+
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/akil_sm9" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="akil_sm9" height="30" width="40" /></a>
