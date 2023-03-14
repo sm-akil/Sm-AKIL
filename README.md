@@ -36,7 +36,8 @@
 - ⚡About time management **conservative.**
 
 <h2 align="center">🎀ℂ𝕦𝕣𝕣𝕚𝕔𝕦𝕝𝕦𝕞 𝕍𝕚𝕥𝕒𝕖🎀</h2>
-<img style="align:center" width="620" height="750" src="https://github.com/sm-akil/Sm-AKIL/blob/main/images/my_resume.jpg">
+
+<img align="center" width="620" height="750" src="https://github.com/sm-akil/Sm-AKIL/blob/main/images/my_resume.jpg">
 
 
 <h3 align="left">Connect with me:</h3>
