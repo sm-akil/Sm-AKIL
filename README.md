@@ -23,7 +23,7 @@
 
 - 👨‍💻 All of my projects are available at [Updating...](Updating...)
 
-- 💬 Ask me about **Android OS, Computer OS, Web-Designing, Photoshop, MS-Word, Basic Programming etc.**
+- 💬 Ask me about **Cyber Security, Android OS, Computer OS, Web-Designing, Photoshop, MS-Word, Basic Programming etc.**
 
 - 📫 E-mail : **akil.ckb@gmail.com**
 
