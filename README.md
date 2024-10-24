@@ -15,7 +15,7 @@
 
 -  🔭 My ready project(laravel): [Hospital Management Project via LARAVEL](https://github.com/sm-akil/Hospital_Management_System)
 
--  - 🔭 I’m currently working on : [Courier Management Project]
+-  🔭 I’m currently working on : [Courier Management Project]
 
 - 🌱 I’m currently learning **Algorithm, Data-structure, Advance-label Coding, Database, Local Hosting, Advance-label Cyber security System etc.**
 
