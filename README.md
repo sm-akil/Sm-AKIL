@@ -9,13 +9,13 @@
 
 <p align="left"> <a href="https://twitter.com/akil_sm9" target="blank"><img src="https://img.shields.io/twitter/follow/akil_sm9?logo=twitter&style=for-the-badge" alt="akil_sm9" /></a> </p>
 
-- 🔭 My ready project : [Attendance Management Project](https://github.com/sm-akil/AttendanceManagementSystem)
+- 🔭 My ready project(PHP/JS/CSS) : [Attendance Management Project](https://github.com/sm-akil/AttendanceManagementSystem)
 
-- 🔭 My ready project  : [Pharmacy Management Project](https://github.com/sm-akil/PharmacyManagementSystem)
+- 🔭 My ready project(laravel)  : [Pharmacy Management Project](https://github.com/sm-akil/PharmacyManagementSystem) 
 
-- 🔭 I’m currently working on : [Courier Management Project] 
+-  🔭 My ready project(laravel): [Hospital Management Project via LARAVEL](https://github.com/sm-akil/Hospital_Management_System)
 
--  🔭 I’m currently working on : [Hospital Management Project via LARAVEL] 
+-  - 🔭 I’m currently working on : [Courier Management Project]
 
 - 🌱 I’m currently learning **Algorithm, Data-structure, Advance-label Coding, Database, Local Hosting, Advance-label Cyber security System etc.**
 
