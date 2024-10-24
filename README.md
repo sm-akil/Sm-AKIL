@@ -13,7 +13,7 @@
 
 - 🔭 My ready project(laravel)  : [Pharmacy Management Project](https://github.com/sm-akil/PharmacyManagementSystem) 
 
--  🔭 My ready project(laravel): [Hospital Management Project via LARAVEL](https://github.com/sm-akil/Hospital_Management_System)
+-  🔭 My ready project(laravel): [Hospital Management Project](https://github.com/sm-akil/Hospital_Management_System)
 
 -  🔭 I’m currently working on : [Courier Management Project]
 
