@@ -11,7 +11,7 @@
 
 - 🔭 My ready project(PHP/JS/CSS) : [Attendance Management Project](https://github.com/sm-akil/AttendanceManagementSystem)
 
-- 🔭 My ready project(laravel)  : [Pharmacy Management Project](https://github.com/sm-akil/PharmacyManagementSystem) 
+- 🔭 My ready project(PHP/JS/CSS)  : [Pharmacy Management Project](https://github.com/sm-akil/PharmacyManagementSystem) 
 
 -  🔭 My ready project(laravel): [Hospital Management Project](https://github.com/sm-akil/Hospital_Management_System)
 
